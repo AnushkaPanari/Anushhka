@@ -1,4 +1,4 @@
-class hello
+class helloprogram
   {
     public static viod main(String[]args)
     {
